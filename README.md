@@ -19,10 +19,3 @@ API RESTful desenvolvida em Spring Boot para gerenciar produtos de uma loja de g
 - Spring Data JPA
 - Banco de Dados MySQL
 
-## Como Executar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
